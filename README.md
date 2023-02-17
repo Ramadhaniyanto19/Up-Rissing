@@ -13,17 +13,6 @@ Build with :
 5. Import uprising.sql to the database
 6. Run.
 
-# Account Demos 
-1. Admin :
-  - Email     : Azmifxuzy@gmail.com
-  - Password  : 123
-2. Member : 
-  - Email     : Azmifauzy@gmail.com
-  - Password  : 123
-
-# Follow Me 
-- Facebook  : https://facebook.com/alliensec
-- Instagram : https://instagram.com/azmifauzy.id
 
 
 Thanks :)
