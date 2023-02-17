@@ -25,9 +25,7 @@ https://github.com/azmifauzy				|
 -Buka browser lalu jalankan dengan menuliskan 		|
  localhost/uprising-music				|
 							|
-Akun Admin			Akun Member		|
-email: azmi@gmail.com		email: bang@music.com	|
-passw: 123456			passw: 123456		|
+		
 ========================================================|
 =============-----/////FAQ ERROR\\\\\-----==============
 
